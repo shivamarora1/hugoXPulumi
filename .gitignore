@@ -1,0 +1,5 @@
+.env
+public
+pulumi-deployment/.venv
+pulumi-deployment/__pycache__
+pulumi-deployment/.mypy_cache

@@ -1,0 +1,26 @@
+baseURL = "http://hugo-pulumi-b585fe8.s3-website.ap-south-1.amazonaws.com"
+languageCode = "en-us"
+title = "STEM Learning Hub"
+theme = "PaperMod"
+
+[params]
+ShowReadingTime = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+
+[menu]
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Posts"
+url = "/posts/"
+weight = 2
+
+[params.homeInfoParams]
+Content = ""
+
+[markup.goldmark.renderer]
+unsafe = true

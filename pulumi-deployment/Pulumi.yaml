@@ -1,0 +1,10 @@
+name: pulumi-deployment
+description: Deploy HUGO static website in AWS
+runtime:
+  name: python
+  options:
+    toolchain: uv
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: aws-python
