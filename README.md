@@ -1,3 +1,7 @@
+> This repository is a submission for the [BrightData Realtime AI Agent Challenge](https://dev.to/devteam/announcing-the-pulumi-deploy-and-document-challenge-3000-in-prizes-887).<br>
+> You can read the full submission article [here](https://dev.to/coder_dragon/deploy-hugo-website-to-amazon-s3-using-pulumi-43g2).
+
+
 1. Make sure you have setup following environment variables:
 ```
 export AWS_ACCESS_KEY_ID=<AWS_ACCESS_KEY_ID>
